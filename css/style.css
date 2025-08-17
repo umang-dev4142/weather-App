@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+}
+#outer{
+    height: 500px;
+    width: 400px;
+    margin: 50px auto;
+    border: 2px solid white;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 10px white;
+    background: linear-gradient(to bottom, blue,white);
+}
+#city{
+    height: 45px;
+    width: 265px;
+    margin-top: 20px;
+    border-radius: 20px;
+    margin-left: -55px;
+}
+button{
+    height: 55px;
+    width: 60px;
+    border-radius: 50%;
+    border: 1px solid white;
+    position: absolute;
+    margin: 20px 50px 0px 5px ;
+}
+button img{
+    height: 40px;
+    width: 40px;
+    padding-top: 5px;
+}
+h1{
+    margin: 0px;
+    color: white;
+}
+span{
+    color: white;
+}
+#bottom{
+    height: 140px;
+    width: 400px;
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-evenly;
+}
+#left img{
+        height: 30px;
+        width: 30px;
+        margin-top: 50px;
+        
+}
+#right img{
+     height: 30px;
+        width: 30px;
+         margin-top: 50px;
+}
+#img{
+    height: 150px;
+    width:100px;
+}
